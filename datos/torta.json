@@ -1,0 +1,101 @@
+{
+    "torta": [{
+        "nombre" : "Torta Oompa Loompa",
+        "puntuacion" : 4,         
+        "bizcocho": {
+            "vainilla": false,
+            "chocolate" : true
+        },
+        "peso_gr": 1500,
+        "capas" : 2,
+        "relleno" : {
+            "ddl" : true,
+            "nutella" : false,
+            "crema" : false,
+            "merengue": false,
+            "frutos_secos": false,
+            "frutas" : false
+        },
+        "cubierta": {
+            "chocolate": true,
+            "crema_chantilly": false,
+            "fondant": false,
+            "merengue": false
+        }
+    },
+    {
+        "nombre" : "Torta frutal",
+        "puntuacion" : 3,
+        "bizcocho": {"vainilla": true,
+            "chocolate" : false
+        },
+        "peso_gr": 2000,
+        "capas" : 2,
+        "relleno" : {
+            "ddl" : false,
+            "nutella" : false,
+            "crema" : true,
+            "merengue": false,
+            "frutos_secos": true,
+            "frutas" : true
+        },
+        "cubierta": {
+            "chocolate": false,
+            "crema_chantilly": true,
+            "fondant": false,
+            "merengue": false
+        }
+        
+    },
+    {
+        "nombre" : "Torta Balcarce",
+        "puntuacion" : 3,
+        "bizcocho": {
+            "vainilla": false,
+            "chocolate" : true
+        },
+        "peso_gr": 1000,
+        "capas" : 2,
+        "relleno" : {
+            "ddl" : true,
+            "nutella" : false,
+            "crema" : false,
+            "merengue": false,
+            "frutos_secos": true,
+            "frutas" : false
+        },
+        "cubierta": {
+            "chocolate": false,
+            "crema_chantilly": true,
+            "fondant": false,
+            "merengue": false
+        }
+        
+    },
+    {
+        "nombre" : "Torta False",
+        "puntuacion" : 3,
+        "bizcocho": {
+            "vainilla": false,
+            "chocolate" : false
+        },
+        "peso_gr": 1000,
+        "capas" : 2,
+        "relleno" : {
+            "ddl" : false,
+            "nutella" : false,
+            "crema" : false,
+            "merengue": false,
+            "frutos_secos": false,
+            "frutas" : false
+        },
+        "cubierta": {
+            "chocolate": false,
+            "crema_chantilly": false,
+            "fondant": false,
+            "merengue": false
+        }
+        
+    }        
+]   
+}

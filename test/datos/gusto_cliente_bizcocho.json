@@ -1,0 +1,23 @@
+{
+    "gustos":[{
+        "bizcocho": {
+            "vainilla": true,
+            "chocolate" : false
+        },
+        "relleno" : {
+            "ddl" : false,
+            "nutella" : false,
+            "crema" : false,
+            "merengue": false,
+            "frutos_secos": false,
+            "frutas" : false
+        },
+        "cubierta": {
+            "chocolate": false,
+            "crema_chantilly": false,
+            "fondant": false,
+            "merengue": false
+        }
+    }
+]
+}

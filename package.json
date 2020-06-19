@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "sugerencias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test/testSuggestions.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node test/testSuggestions.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+   
+  }   
+}
