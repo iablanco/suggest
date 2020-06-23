@@ -5,13 +5,15 @@
   "description": "",
   "main": "test/testSuggestions.js",
   "scripts": {
-    "start": "node src/main.js",
+    "start": "node src/server/api-suggestions.js",
     "test": "node test/testSuggestions.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-   
-  }   
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
 }

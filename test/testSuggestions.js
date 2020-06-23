@@ -11,7 +11,6 @@ async function testValidateDatosLoaded(suggestions){
         msg = 'testValidateDatosLoaded fail'
     }
 
-
     return {testFailed, msg}
 }
 
